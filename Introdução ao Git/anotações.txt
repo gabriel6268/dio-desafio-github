@@ -1,0 +1,7 @@
+git init - inicia o repositório
+git status - verifica o status do repósitorio(se foi ou não alterado e etc...)
+git add - adiciona as modificações do repositório no pc(isso não muda a núvem)
+git commit -  *     *     *         *    *         *  *  *    *   *    *  *  e comenta o que foi alterado
+git push - 'empurra' do computador para a núvem
+git pull - 'puxa' as alterações da núvem
+git clone -  clona o repositório da núvem
